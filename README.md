@@ -7,10 +7,6 @@
 - CSS
 - Technologies used
 
-## Live Demo
-
-[Live Demo Link](#)
-
 
 To get a local copy up and running follow these simple example steps.
 
@@ -32,9 +28,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author**
 
-- GitHub: [githubhandle]()
-- Twitter: [twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@DhuruvSingh](https://github.com/DhuruvSingh)
+- Twitter: [@Ritiksi76216487](https://twitter.com/Ritiksi76216487)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dhuruv-singh-a1a51aa9/)
 
 ## 🤝 Contributing
 
