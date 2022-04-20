@@ -1,2 +1,2 @@
-./github/workflows/linters.yml
-./node_modules
+.github/workflows/linters.yml
+node_modules/
